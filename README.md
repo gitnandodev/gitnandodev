@@ -1,4 +1,4 @@
-<code> Console.WriteLine("Welcome to my GitHub 😎") </code>
+<code> System.out.println("Welcome to my GitHub 😎") </code>
 
 🧑‍💻| Entry Level Software Engineer
 <br></br>
